@@ -19,7 +19,7 @@ html, body {background-color: #fff;
 	font-family: "Trebuchet MS, Helvetica, sans-serif, Arial"
 }
 
-h1 { padding-bottom: 5px;     padding-top: 5px;     font-size: 21px;     margin-bottom: 10px;     text-align: center;  background-color: #C0C0C0;   border-style: solid;     border-bottom: double #666;     border-top: double;     border-left: 0px;     border-right: 0px;     border-radius: 0px;     line-height: 1;     font-family: "sans;georgia;arial" }
+h1 { padding-bottom: 5px;     padding-top: 5px;     font-size: 21px;     margin-bottom: 10px;     text-align: center;  background-color: #d8e3e7;   border-style: solid;     border-bottom: double #666;     border-top: double;     border-left: 0px;     border-right: 0px;     border-radius: 0px;     line-height: 1;     font-family: "sans;georgia;arial" }
 
 #t h1 {
     padding-bottom: 5px;
@@ -174,7 +174,7 @@ ol > li {
 	margin:0 0 0px 2em; /* Give each list item a left margin to make room for the numbers */
 	padding:10px 8px; /* Add some spacing around the content */
 	list-style:none; /* Disable the normal item numbering */
-	border-top:2px solid #0489B1;
+	border-top:2px solid #51c4d3;
 	background:#fff;
 }
 
@@ -193,9 +193,9 @@ ol > li:before {
 	   generated content but not positioning it (Camino 2 is one example) */
 	margin-right:8px;
 	padding:4px;
-	border-top:2px solid #0489B1;
+	border-top:2px solid #51c4d3;
 	color:#fff;
-	background: #0489B1;
+	background: #51c4d3;
 	font-weight:bold;
 	font-family:"Helvetica Neue", Arial, sans-serif;
 	text-align:center;
